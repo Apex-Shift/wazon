@@ -1,4 +1,6 @@
 # WAZON - BMS Infiltration & Security Auditing Framework
+<img width="896" height="650" alt="gui" src="https://github.com/user-attachments/assets/396fdd5b-25f0-4cc4-b4df-7990b63b2bdf" />
+<img width="683" height="309" alt="cli" src="https://github.com/user-attachments/assets/eb9b064f-f199-4c21-af5d-8a5d98d4e1b2" />
 
 <p align="center">
   <b>Mission-Critical Offensive Security Framework for Building Management Systems (BMS / GTB)</b>
